@@ -125,11 +125,25 @@
     "media_id": "18419298040086357",
     "posted_at": "2026-10-28T13:49:11.606150+00:00"
   },
+  "2026-10-28:second": {
+    "entries": [
+      "JUBLINGREA|EASTBRIDGECAPITALMASTERFUNDILTD|BUY"
+    ],
+    "media_id": "18569964760076788",
+    "posted_at": "2026-10-28T16:10:08.790170+00:00"
+  },
   "2026-10-28:x-first": {
     "entries": [
       "STLTECH|POONAWALLAAVIATIONPVTLTD|BUY"
     ],
     "media_id": "2115440750205022693",
     "posted_at": "2026-10-28T13:49:12.722200+00:00"
+  },
+  "2026-10-28:x-second": {
+    "entries": [
+      "JUBLINGREA|EASTBRIDGECAPITALMASTERFUNDILTD|BUY"
+    ],
+    "media_id": "2115476222604124200",
+    "posted_at": "2026-10-28T16:10:09.997666+00:00"
   }
 }
