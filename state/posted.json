@@ -173,5 +173,19 @@
     ],
     "media_id": "18090021302276463",
     "posted_at": "2026-10-31T21:40:29.854185+00:00"
+  },
+  "2026-11-02:reel-trade2": {
+    "entries": [
+      "EDELALTS|CARNELIANASSETMANAGEMENTANDADVISORSPVTLTD|BUY"
+    ],
+    "media_id": "17953668573298580",
+    "posted_at": "2026-11-02T16:15:28.923197+00:00"
+  },
+  "2026-11-02:x-reel-trade2": {
+    "entries": [
+      "EDELALTS|CARNELIANASSETMANAGEMENTANDADVISORSPVTLTD|BUY"
+    ],
+    "media_id": "2117289504524345664",
+    "posted_at": "2026-11-02T16:15:30.150042+00:00"
   }
 }
