@@ -174,12 +174,26 @@
     "media_id": "18090021302276463",
     "posted_at": "2026-10-31T21:40:29.854185+00:00"
   },
+  "2026-11-02:reel-trade": {
+    "entries": [
+      "GOCOLORS|FRANKLINTEMPLETONMUTUALFUND|SELL"
+    ],
+    "media_id": "18395496163201684",
+    "posted_at": "2026-11-02T16:38:03.509135+00:00"
+  },
   "2026-11-02:reel-trade2": {
     "entries": [
       "EDELALTS|CARNELIANASSETMANAGEMENTANDADVISORSPVTLTD|BUY"
     ],
     "media_id": "17953668573298580",
     "posted_at": "2026-11-02T16:15:28.923197+00:00"
+  },
+  "2026-11-02:x-reel-trade": {
+    "entries": [
+      "GOCOLORS|FRANKLINTEMPLETONMUTUALFUND|SELL"
+    ],
+    "media_id": "2117295186527056282",
+    "posted_at": "2026-11-02T16:38:04.829658+00:00"
   },
   "2026-11-02:x-reel-trade2": {
     "entries": [
