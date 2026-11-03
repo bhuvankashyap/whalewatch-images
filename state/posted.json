@@ -202,12 +202,26 @@
     "media_id": "2117289504524345664",
     "posted_at": "2026-11-02T16:15:30.150042+00:00"
   },
+  "2026-11-03:reel-trade": {
+    "entries": [
+      "GALLANTT|SURYALAXMIINFRACONPVTLTD|BUY"
+    ],
+    "media_id": "18104277248550326",
+    "posted_at": "2026-11-03T16:57:02.040939+00:00"
+  },
   "2026-11-03:reel-trade2": {
     "entries": [
       "RBA|RAJASTHANGLOBALSECURITIESPVTLTD|SELL"
     ],
     "media_id": "18122999981074024",
     "posted_at": "2026-11-03T15:21:17.016944+00:00"
+  },
+  "2026-11-03:x-reel-trade": {
+    "entries": [
+      "GALLANTT|SURYALAXMIINFRACONPVTLTD|BUY"
+    ],
+    "media_id": "2117662349050122572",
+    "posted_at": "2026-11-03T16:57:03.197350+00:00"
   },
   "2026-11-03:x-reel-trade2": {
     "entries": [
