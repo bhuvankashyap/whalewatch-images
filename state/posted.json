@@ -285,5 +285,19 @@
     ],
     "media_id": "2118362838196523454",
     "posted_at": "2026-11-05T15:20:32.856800+00:00"
+  },
+  "2026-11-06:reel-trade2": {
+    "entries": [
+      "GROWW|GOLDMANSACHSBANKEUROPESEODI|BUY"
+    ],
+    "media_id": "18466706632190165",
+    "posted_at": "2026-11-06T15:31:27.023125+00:00"
+  },
+  "2026-11-06:x-reel-trade2": {
+    "entries": [
+      "GROWW|GOLDMANSACHSBANKEUROPESEODI|BUY"
+    ],
+    "media_id": "2118727975310889363",
+    "posted_at": "2026-11-06T15:31:28.316619+00:00"
   }
 }
