@@ -341,5 +341,19 @@
     ],
     "media_id": "2119813051905962122",
     "posted_at": "2026-11-09T15:23:10.722246+00:00"
+  },
+  "2026-11-11:reel-trade2": {
+    "entries": [
+      "CPPLUS|DIXONTECHNOLOGIESINDIALTD|SELL"
+    ],
+    "media_id": "18232804672331250",
+    "posted_at": "2026-11-11T17:03:32.750047+00:00"
+  },
+  "2026-11-11:x-reel-trade2": {
+    "entries": [
+      "CPPLUS|DIXONTECHNOLOGIESINDIALTD|SELL"
+    ],
+    "media_id": "2120563090882502947",
+    "posted_at": "2026-11-11T17:03:33.937368+00:00"
   }
 }
