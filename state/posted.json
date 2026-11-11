@@ -342,12 +342,26 @@
     "media_id": "2119813051905962122",
     "posted_at": "2026-11-09T15:23:10.722246+00:00"
   },
+  "2026-11-11:reel-trade": {
+    "entries": [
+      "CPPLUS|MOTILALOSWALMUTUALFUND|BUY"
+    ],
+    "media_id": "18396791335166815",
+    "posted_at": "2026-11-11T17:18:11.139664+00:00"
+  },
   "2026-11-11:reel-trade2": {
     "entries": [
       "CPPLUS|DIXONTECHNOLOGIESINDIALTD|SELL"
     ],
     "media_id": "18232804672331250",
     "posted_at": "2026-11-11T17:03:32.750047+00:00"
+  },
+  "2026-11-11:x-reel-trade": {
+    "entries": [
+      "CPPLUS|MOTILALOSWALMUTUALFUND|BUY"
+    ],
+    "media_id": "2120566775310098641",
+    "posted_at": "2026-11-11T17:18:12.339760+00:00"
   },
   "2026-11-11:x-reel-trade2": {
     "entries": [
