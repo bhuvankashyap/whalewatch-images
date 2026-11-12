@@ -369,5 +369,19 @@
     ],
     "media_id": "2120563090882502947",
     "posted_at": "2026-11-11T17:03:33.937368+00:00"
+  },
+  "2026-11-12:reel-trade2": {
+    "entries": [
+      "MANAKCOAT|GROWVIATRADEPVTLTD|BUY"
+    ],
+    "media_id": "18204584335381379",
+    "posted_at": "2026-11-12T15:20:25.289304+00:00"
+  },
+  "2026-11-12:x-reel-trade2": {
+    "entries": [
+      "MANAKCOAT|GROWVIATRADEPVTLTD|BUY"
+    ],
+    "media_id": "2120899527737532601",
+    "posted_at": "2026-11-12T15:20:26.746677+00:00"
   }
 }
