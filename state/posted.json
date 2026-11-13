@@ -397,5 +397,19 @@
     ],
     "media_id": "2120899527737532601",
     "posted_at": "2026-11-12T15:20:26.746677+00:00"
+  },
+  "2026-11-13:reel-trade2": {
+    "entries": [
+      "MEESHO|SOCIETEGENERALE|BUY"
+    ],
+    "media_id": "18133680325838878",
+    "posted_at": "2026-11-13T15:20:10.821919+00:00"
+  },
+  "2026-11-13:x-reel-trade2": {
+    "entries": [
+      "MEESHO|SOCIETEGENERALE|BUY"
+    ],
+    "media_id": "2121261853414129861",
+    "posted_at": "2026-11-13T15:20:11.906300+00:00"
   }
 }
