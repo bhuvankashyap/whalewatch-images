@@ -510,12 +510,26 @@
     "media_id": "2123073939698266159",
     "posted_at": "2026-11-18T15:20:46.923736+00:00"
   },
+  "2026-11-19:reel-trade": {
+    "entries": [
+      "IIFLCAPS|FIHMAURITIUSINVESTMENTSLTD|BUY"
+    ],
+    "media_id": "18102886673388455",
+    "posted_at": "2026-11-19T16:57:16.699022+00:00"
+  },
   "2026-11-19:reel-trade2": {
     "entries": [
       "IIFLCAPS|NIRMALBHANWARLALJAIN|SELL"
     ],
     "media_id": "18137754685785784",
     "posted_at": "2026-11-19T15:21:38.470700+00:00"
+  },
+  "2026-11-19:x-reel-trade": {
+    "entries": [
+      "IIFLCAPS|FIHMAURITIUSINVESTMENTSLTD|BUY"
+    ],
+    "media_id": "2123460616413155337",
+    "posted_at": "2026-11-19T16:57:17.897901+00:00"
   },
   "2026-11-19:x-reel-trade2": {
     "entries": [
