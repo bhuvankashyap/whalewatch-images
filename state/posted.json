@@ -537,5 +537,19 @@
     ],
     "media_id": "2123436548452733019",
     "posted_at": "2026-11-19T15:21:39.610746+00:00"
+  },
+  "2026-11-20:reel-trade2": {
+    "entries": [
+      "GALLANTT|SURYALAXMIINFRACONPVTLTD|BUY"
+    ],
+    "media_id": "18108011387317243",
+    "posted_at": "2026-11-20T15:41:52.293157+00:00"
+  },
+  "2026-11-20:x-reel-trade2": {
+    "entries": [
+      "GALLANTT|SURYALAXMIINFRACONPVTLTD|BUY"
+    ],
+    "media_id": "2123804026815107098",
+    "posted_at": "2026-11-20T15:41:53.239851+00:00"
   }
 }
