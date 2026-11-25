@@ -594,12 +594,26 @@
     "media_id": "2124886034290811183",
     "posted_at": "2026-11-23T15:21:23.983090+00:00"
   },
+  "2026-11-25:reel-trade": {
+    "entries": [
+      "MEDANTA|DUNEARNINVESTMENTSMAURITIUSPTELTD|SELL"
+    ],
+    "media_id": "18118890212041331",
+    "posted_at": "2026-11-25T16:58:03.086345+00:00"
+  },
   "2026-11-25:reel-trade2": {
     "entries": [
       "MEDANTA|HDFCMUTUALFUND|BUY"
     ],
     "media_id": "18117420370865587",
     "posted_at": "2026-11-25T15:20:56.657435+00:00"
+  },
+  "2026-11-25:x-reel-trade": {
+    "entries": [
+      "MEDANTA|DUNEARNINVESTMENTSMAURITIUSPTELTD|SELL"
+    ],
+    "media_id": "2125635137782395212",
+    "posted_at": "2026-11-25T16:58:04.177279+00:00"
   },
   "2026-11-25:x-reel-trade2": {
     "entries": [
