@@ -593,5 +593,19 @@
     ],
     "media_id": "2124886034290811183",
     "posted_at": "2026-11-23T15:21:23.983090+00:00"
+  },
+  "2026-11-25:reel-trade2": {
+    "entries": [
+      "MEDANTA|HDFCMUTUALFUND|BUY"
+    ],
+    "media_id": "18117420370865587",
+    "posted_at": "2026-11-25T15:20:56.657435+00:00"
+  },
+  "2026-11-25:x-reel-trade2": {
+    "entries": [
+      "MEDANTA|HDFCMUTUALFUND|BUY"
+    ],
+    "media_id": "2125610700060111262",
+    "posted_at": "2026-11-25T15:20:57.723870+00:00"
   }
 }
