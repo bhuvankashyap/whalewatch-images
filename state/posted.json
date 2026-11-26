@@ -621,5 +621,19 @@
     ],
     "media_id": "2125610700060111262",
     "posted_at": "2026-11-25T15:20:57.723870+00:00"
+  },
+  "2026-11-26:reel-trade2": {
+    "entries": [
+      "LGEINDIA|LGELECTRONICSINC|SELL"
+    ],
+    "media_id": "17874819405647060",
+    "posted_at": "2026-11-26T15:19:58.886254+00:00"
+  },
+  "2026-11-26:x-reel-trade2": {
+    "entries": [
+      "LGEINDIA|LGELECTRONICSINC|SELL"
+    ],
+    "media_id": "2125972845381743016",
+    "posted_at": "2026-11-26T15:19:59.909300+00:00"
   }
 }
