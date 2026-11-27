@@ -650,12 +650,26 @@
     "media_id": "2125972845381743016",
     "posted_at": "2026-11-26T15:19:59.909300+00:00"
   },
+  "2026-11-27:reel-trade": {
+    "entries": [
+      "IGIL|BCPASIAIITOPCOPTELTD|SELL"
+    ],
+    "media_id": "18667734805014084",
+    "posted_at": "2026-11-27T16:56:26.851610+00:00"
+  },
   "2026-11-27:reel-trade2": {
     "entries": [
       "IGIL|OLDBRIDGEMUTUALFUND|BUY"
     ],
     "media_id": "18093337823251720",
     "posted_at": "2026-11-27T15:20:16.171641+00:00"
+  },
+  "2026-11-27:x-reel-trade": {
+    "entries": [
+      "IGIL|BCPASIAIITOPCOPTELTD|SELL"
+    ],
+    "media_id": "2126359511271125200",
+    "posted_at": "2026-11-27T16:56:28.253266+00:00"
   },
   "2026-11-27:x-reel-trade2": {
     "entries": [
